@@ -1,5 +1,4 @@
 # Student Submission Analysis System
-Video Link: https://www.loom.com/share/62f85a9038a949df91be2aa09618a44f?sid=67c14caf-eeda-452f-bb54-f7d5fc6103a2 
 
 
 This project provides a system for analyzing student submissions using OpenAI's language model and Pinecone for vector storage and retrieval. It consists of two main components: a FastAPI application for handling analysis requests and a script for extracting and upserting text from PDF files.
